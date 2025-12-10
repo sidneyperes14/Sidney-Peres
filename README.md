@@ -6,10 +6,10 @@ I am a hybrid professional combining **FP&A**, **automation**, and **data analys
 
 My focus is to identify **repetitive and low-value financial processes** and transform them through **automation and optimization**, enabling financial teams to dedicate their time to strategic analysis and decisions that generate real business impact.
 
-- 🚀 Exploring new technologies and improving my skills  
-- 🤖 Special interest in **AI, Automation, Web Scraping, FP&A Tech, and Data Analytics**  
-- 🛠️ Working with **Python, Power BI, Selenium, LangChain, and Databases**  
-- 📚 Always learning, building solutions, and sharing knowledge  
+-  Exploring new technologies and improving my skills  
+-  Special interest in **AI, Automation, Web Scraping, FP&A Tech, and Data Analytics**  
+-  Working with **Python, Power BI, Selenium, LangChain, and Databases**  
+-  Always learning, building solutions, and sharing knowledge  
 
 ---
 
